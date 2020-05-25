@@ -3,7 +3,7 @@
 - Back-end : Nginx, serve static files
 
 ### Preview
-![Web Portofolio](https://github.com/kokohi28/tugas-individu/portofolio/blob/master/home_sample.png?raw=true)
+![Web Portofolio](https://github.com/kokohi28/tugas-individu/blob/master/portofolio/home_sample.png?raw=true)
 
 ### Disclaimer
 site favicon is belonging to Halo Messenger Icon
@@ -11,7 +11,7 @@ site favicon is belonging to Halo Messenger Icon
 ### Portofolio Website
 http://hi-coco.xyz:5002
 
-
+===========================================================================
 # Hash Generator
 - Hash function : MD5, SHA1, SHA256, SHA384, SHA512 
 - Front-end : Use HTML, CSS and Javascript
