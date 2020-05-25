@@ -1,0 +1,32 @@
+
+/* general */
+body{
+  margin: 10;
+  font-size: 16px;
+}
+* {
+  font-family: Impact, Charcoal, sans-serif;
+}
+.container{
+  width: 100%;
+  margin: auto;
+}
+h4{
+  margin-top: 40px;
+}
+h5{
+  font-size: 16px;
+  font-weight: 600;
+  color: #00ab60;
+}
+a{
+  text-decoration: none;
+  color: #00ab60;
+}
+
+@media screen and (min-width: 40.5em) {
+  body{
+    margin-top:100px; text-align: center;
+  }
+}
+

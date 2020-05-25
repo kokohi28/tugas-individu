@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Hash Generator</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div id="container">
+		<h1>Hash generator (MD5, SHA1, SHA256, etc.)</h1>
+		
+		<!-- Input -->
+		<div class="input-sc">
+			<input type="text" id="txt-src" name="txt-src">
+			<button type="button" id="button-hash">HASH</button>
+		</div>
+
+		<!-- Hash Function -->
+		<p>
+			Hash Function :
+			<select id="opt-hash" name="hash-algorithm-used" size="1">
+				<option value="MD5" selected="selected">MD5</option>
+				<option value="SHA-1">SHA-1</option>
+				<option value="SHA-256">SHA-256</option>
+				<option value="SHA-384">SHA-384</option>
+				<option value="SHA-512">SHA-512</option>
+			</select>
+		</p>
+
+		<!-- Result -->
+		<h4 id="res-hash"></h4>
+		<h5 id="res-value"></h5>
+
+		<br>
+		<p><a href="http://en.wikipedia.org/wiki/SHA-1">SHA-1</a>&nbsp;<a href="http://en.wikipedia.org/wiki/MD5">MD5</a>&nbsp;on Wikipedia</p>
+		
+	</div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
