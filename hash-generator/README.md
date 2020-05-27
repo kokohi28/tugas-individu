@@ -21,4 +21,6 @@ Informatic Engineering of State University of Surabaya (UNESA)
 ## Website link
 http://hi-coco.xyz:5003
 
+## When getting problem for SHA hash use this:
+https://djiekie.github.io/
 

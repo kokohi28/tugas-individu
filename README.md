@@ -29,7 +29,11 @@ SHA1 online can be used for validating the hash result.
 - SHA function from : https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto/digest
 
 ### Hash Generator Website
-http://hi-coco.xyz:5003
+http://hi-coco.xyz:5003 
+
+### When getting problem for SHA hash use this:
+https://djiekie.github.io/
+
 
 
 ## Student
