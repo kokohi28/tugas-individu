@@ -9,7 +9,7 @@
 site favicon is belonging to Halo Messenger Icon
 
 ### Portofolio Website
-http://hi-coco.xyz:5002
+http://hi-coco.xyz
 
 ===========================================================================
 # Hash Generator
